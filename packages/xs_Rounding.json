@@ -8,6 +8,6 @@
   "github_link": "https://github.com/AlexPoulsen/xs_Rounding-Kit-port",
   "dependencies": [],
   "port": true,
-  "topics": ["math", "rounding", "speed"],
+  "topics": ["math", "rounding", "speed", "fast"],
   "framework_or_library": "library"
 }
