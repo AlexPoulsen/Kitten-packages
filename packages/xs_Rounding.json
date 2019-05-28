@@ -5,5 +5,9 @@
   "author": "Sree Kotay",
   "porting author": "Alix Poulsen",
   "original_web_link": "http://stereopsis.com/sree/fpu2006.html",
-  "github_link": "https://github.com/AlexPoulsen/xs_Rounding-Kit-port"
+  "github_link": "https://github.com/AlexPoulsen/xs_Rounding-Kit-port",
+  "dependencies": [],
+  "port": true,
+  "topics": ["math", "rounding", "speed"],
+  "framework_or_library": "library"
 }

@@ -4,5 +4,8 @@
   "versions": ["1.0.0"],
   "author": "Alix Poulsen",
   "github_link": "https://github.com/AlexPoulsen/Arguments",
-  "dependencies": ["xs_Rounding"]
+  "dependencies": ["xs_Rounding"],
+  "port": false,
+  "topics": ["CLI", "command-line"],
+  "framework_or_library": "framework"
 }
