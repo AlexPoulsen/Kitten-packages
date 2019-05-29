@@ -1,10 +1,11 @@
 {
   "name": "stringbuilder",
   "id": "alix.stringbuilder",
-  "versions": ["1.0.0"],
+  "versions": [
+    {"ver": "1.0.0", "deps": ["xs_Rounding"]}
+  ],
   "author": ["Alix Poulsen", "Tyler Bezera"],
   "github_link": "https://github.com/AlexPoulsen/stringbuilder",
-  "dependencies": ["xs_Rounding"],
   "port": false,
   "topics": ["stringbuilder", "string"],
   "framework_or_library": "library"

@@ -1,10 +1,11 @@
 {
   "name": "arguments",
   "id": "alix.arguments",
-  "versions": ["1.0.0"],
+  "versions": [
+    {"ver": "1.0.0", "deps": ["xs_Rounding"]}
+  ],
   "author": "Alix Poulsen",
   "github_link": "https://github.com/AlexPoulsen/Arguments",
-  "dependencies": ["xs_Rounding"],
   "port": false,
   "topics": ["CLI", "command-line"],
   "framework_or_library": "framework"
