@@ -1,0 +1,12 @@
+{
+    "name": "circular",
+    "id": "alix.circular",
+    "versions": [
+        {"ver": "1.0.0", "deps": []}
+    ],
+    "authors": ["Alix Poulsen"],
+    "github link": "https://github.com/AlexPoulsen/circular",
+    "port": false,
+    "topics": ["circular buffer", "circular", "buffer", "data", "data storage"],
+    "framework / library": "library"
+}
