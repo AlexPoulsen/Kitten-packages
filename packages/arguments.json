@@ -5,8 +5,8 @@
     {"ver": "1.0.0", "deps": ["xs_Rounding"]}
   ],
   "author": "Alix Poulsen",
-  "github_link": "https://github.com/AlexPoulsen/Arguments",
+  "github link": "https://github.com/AlexPoulsen/Arguments",
   "port": false,
   "topics": ["CLI", "command-line"],
-  "framework_or_library": "framework"
+  "framework / library": "framework"
 }
