@@ -4,7 +4,7 @@
   "versions": [
     {"ver": "1.0.0", "deps": ["xs_Rounding"]}
   ],
-  "author": ["Alix Poulsen", "Tyler Bezera"],
+  "authors": ["Alix Poulsen", "Tyler Bezera"],
   "github link": "https://github.com/AlexPoulsen/stringbuilder",
   "port": false,
   "topics": ["stringbuilder", "string"],

@@ -4,8 +4,8 @@
   "versions": [
     {"ver": "1.0.0", "deps": []}
   ],
-  "author": "Sree Kotay",
-  "porting author": "Alix Poulsen",
+  "authors": ["Sree Kotay"],
+  "porting author": ["Alix Poulsen"],
   "original web link": "http://stereopsis.com/sree/fpu2006.html",
   "github link": "https://github.com/AlexPoulsen/xs_Rounding-Kit-port",
   "port": true,

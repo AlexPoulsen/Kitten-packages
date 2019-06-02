@@ -4,7 +4,7 @@
   "versions": [
     {"ver": "1.0.0", "deps": ["xs_Rounding"]}
   ],
-  "author": "Alix Poulsen",
+  "authors": ["Alix Poulsen"],
   "github link": "https://github.com/AlexPoulsen/Arguments",
   "port": false,
   "topics": ["CLI", "command-line"],
