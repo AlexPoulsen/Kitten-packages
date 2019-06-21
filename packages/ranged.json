@@ -1,0 +1,12 @@
+{
+  "name": "ranged",
+  "id": "alix.rangedint",
+  "versions": [
+    {"ver": "1.0.0", "deps": ["xs_Rounding"]}
+  ],
+  "authors": ["Alix Poulsen"],
+  "github link": "https://github.com/AlexPoulsen/ranged",
+  "port": true,
+  "topics": ["math", "number", "numbers", "ranged", "clip", "modulo"],
+  "framework / library": "library"
+}
